@@ -1,0 +1,10 @@
+{
+    "rpc_url": "https://testnet-rpc.elosys.io",
+    "gas_price_gwei": 10,
+    "gas_limit": 21000,
+    "min_eth": 1,
+    "max_eth": 1, 
+    "chain_id": 51215,
+    "coin_symbol": "tELO"
+}
+
